@@ -1,0 +1,6 @@
+## Files to ignore
+
+vendor/*
+
+config/app.php
+composer.phar
